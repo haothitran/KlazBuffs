@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: Klaz|cff1994ffBuffs|r
+## Author: Klaz
+## Notes: Adjusts the appearance of the default Blizzard buffs and debuffs frame.
+## SavedVariables: KlazBuffsDB
+
+Config.lua
+Buffs.lua
