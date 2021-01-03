@@ -1,4 +1,4 @@
-# KlazUnitFrames
+# KlazBuffs
 
 A World of Warcraft add-on that adjusts the default Blizzard buffs and debuffs frame.
 
@@ -6,8 +6,8 @@ There are no in-game options.
 
 ## Features
 
-- Move default buff/debuff frame.
-- Skin buffs and debuffs with Masque (see on [CurseForge](https://www.curseforge.com/wow/addons/masque)/[WoWInterface](https://www.wowinterface.com/downloads/info12097-Masque.html)).
+- Moveable anchor position.
+- Allow skinning buffs and debuffs with Masque (see on [CurseForge](https://www.curseforge.com/wow/addons/masque)/[WoWInterface](https://www.wowinterface.com/downloads/info12097-Masque.html)).
 
 ## Installation
 
